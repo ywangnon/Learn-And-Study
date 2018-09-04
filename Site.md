@@ -1,0 +1,11 @@
+- [Swift 화면 전환 기법: 뷰 컨트롤러, 내비게이션 컨트롤러, 세그웨이](http://blog.naver.com/PostView.nhn?blogId=baek2304&logNo=220885876605&parentCategoryNo=58&categoryNo=&viewDate=&isShowPopularPosts=true&from=search)
+- [화면전환 (데이터 전달)](http://answerofgod.tistory.com/entry/SWIFT-화면전환-데이터-전달)
+- [화면이동 - Segue](https://m.blog.naver.com/jdub7138/220393890771)
+- [Color Hunt](https://colorhunt.co) : 어울리는 4색 예제
+- [Remove border in each table cell in swift](https://stackoverflow.com/questions/37108647/remove-border-in-each-table-cell-in-swift)
+- [더 나은 개발자가 되는 8 가지 방법](https://medium.com/@mnpk/번역-더-나은-개발자가-되는-8-가지-방법-45ea6cd70114)
+- [앱 UI 예제](https://www.uplabs.com)
+- [Manage Swift Code Snippets With Xcode](https://marcosantadev.com/swift-code-snippets-xcode/)
+- [스위프트 옵셔널 이해하기](http://chanlee.github.io/2015/06/14/Introduce-Swift-Optional/)
+- [프로그래밍 프로젝트 계획하기](https://ko.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-programming-project)
+- [스위프트 비트 다루기](https://outofbedlam.github.io/swift/2016/02/08/BitSets/)
