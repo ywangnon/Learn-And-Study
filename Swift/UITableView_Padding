@@ -1,0 +1,23 @@
+UITableView Padding
+
+UITableView를 만드는데 있어서 자동으로 패딩이 생기는 영역이 있다.
+
+일반적으로는 크게 고민하지 않으나, 그룹으로 생성하게되는
+
+let tableView = UITableView(frame: .zero, style: .grouped)
+
+로 만들면 각각의 섹션마다 풋터/헤더가 생기고 테이블뷰 자체에서도 풋터가 생긴다.
+
+그래서, 2개의 섹션일때 섹션 0은 풋터 높이가 작은데 섹션 1은 풋터 높이가 높게 생긴다.
+
+처음에 이것때문에 고생을 많이 했다. 왜 섹션 풋터를 0으로 줬는데도 계속 생기는가 고민했는데
+
+
+        self.sideTableView.sectionHeaderHeight = 45
+        self.sideTableView.sectionFooterHeight = 0
+        
+        var frame = CGRect.zero
+        frame.size.height = .leastNormalMagnitude
+        self.sideTableView.tableFooterView = UIView(frame: frame)
+        
+로 섹션의 풋터 높이를 0으로 주고, 테이블의 풋터 높이를 0로 해서 넣으면 풋터가 안생기게 된다.
