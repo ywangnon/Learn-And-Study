@@ -1,8 +1,6 @@
-# Today I Learned
+# Study And Learned
 
----
-
-끊임없이 새로운 것을 배우기 위한 Git.
+배운 것들을 정리하는 Repo
 TIL은 짧은 Markdown 문서 (몇 문장 + 예제 코드)로 최근에 배운 개념, 명령의 일부, 명령 또는 팁을 설명합니다.
 
 > **TIL 참조**
